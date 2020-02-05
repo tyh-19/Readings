@@ -1,0 +1,41 @@
+TY  - JOUR
+DB  - PubMed
+AU  - Zhou, Zixu
+AU  - Wu, Qiuyang
+AU  - Yan, Zhangming
+AU  - Zheng, Haizi
+AU  - Chen, Chien-Ju
+AU  - Liu, Yuan
+AU  - Qi, Zhijie
+AU  - Calandrelli, Riccardo
+AU  - Chen, Zhen
+AU  - Chien, Shu
+AU  - Su, H Irene
+AU  - Zhong, Sheng
+T1  - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
+LA  - eng
+SN  - 1091-6490
+SN  - 0027-8424
+Y1  - 2019/09/17
+ET  - 2019/09/03
+AB  - Extracellular RNAs (exRNAs) are present in human serum. It remains unclear to what extent these circulating exRNAs may reflect human physiologic and disease states. Here, we developed SILVER-seq (Small Input Liquid Volume Extracellular RNA Sequencing) to efficiently sequence both integral and fragmented exRNAs from a small droplet (5 μL to 7 μL) of liquid biopsy. We calibrated SILVER-seq in reference to other RNA sequencing methods based on milliliters of input serum and quantified droplet-to-droplet and donor-to-donor variations. We carried out SILVER-seq on more than 150 serum droplets from male and female donors ranging from 18 y to 48 y of age. SILVER-seq detected exRNAs from more than a quarter of the human genes, including small RNAs and fragments of mRNAs and long noncoding RNAs (lncRNAs). The detected exRNAs included those derived from genes with tissue (e.g., brain)-specific expression. The exRNA expression levels separated the male and female samples and were correlated with chronological age. Noncancer and breast cancer donors exhibited pronounced differences, whereas donors with or without cancer recurrence exhibited moderate differences in exRNA expression patterns. Even without using differentially expressed exRNAs as features, nearly all cancer and noncancer samples and a large portion of the recurrence and nonrecurrence samples could be correctly classified by exRNA expression values. These data suggest the potential of using exRNAs in a single droplet of serum for liquid biopsy-based diagnostics.
+SP  - 19200
+EP  - 19208
+VL  - 116
+IS  - 38
+AN  - 31481608
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31481608
+DO  - 10.1073/pnas.1908252116
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6754586/
+U1  - 31481608[pmid]
+U2  - PMC6754586[pmcid]
+U4  - 1908252116[PII]
+J2  - Proc Natl Acad Sci U S A
+JF  - Proceedings of the National Academy of Sciences of the United States of America
+KW  - age
+KW  - biomarker
+KW  - breast cancer
+KW  - cancer recurrence
+KW  - extracellular RNA
+PB  - National Academy of Sciences
+ER  - 

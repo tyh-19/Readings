@@ -1,0 +1,37 @@
+TY  - JOUR
+DB  - PubMed
+AU  - Di, Lin
+AU  - Fu, Yusi
+AU  - Sun, Yue
+AU  - Li, Jie
+AU  - Liu, Lu
+AU  - Yao, Jiacheng
+AU  - Wang, Guanbo
+AU  - Wu, Yalei
+AU  - Lao, Kaiqin
+AU  - Lee, Raymond W
+AU  - Zheng, Genhua
+AU  - Xu, Jun
+AU  - Oh, Juntaek
+AU  - Wang, Dong
+AU  - Xie, X Sunney
+AU  - Huang, Yanyi
+AU  - Wang, Jianbin
+T1  - RNA sequencing by direct tagmentation of RNA/DNA hybrids
+LA  - eng
+SN  - 1091-6490
+Y1  - 2020/01/27
+AB  - Transcriptome profiling by RNA sequencing (RNA-seq) has been widely used to characterize cellular status, but it relies on second-strand complementary DNA (cDNA) synthesis to generate initial material for library preparation. Here we use bacterial transposase Tn5, which has been increasingly used in various high-throughput DNA analyses, to construct RNA-seq libraries without second-strand synthesis. We show that Tn5 transposome can randomly bind RNA/DNA heteroduplexes and add sequencing adapters onto RNA directly after reverse transcription. This method, Sequencing HEteRo RNA-DNA-hYbrid (SHERRY), is versatile and scalable. SHERRY accepts a wide range of starting materials, from bulk RNA to single cells. SHERRY offers a greatly simplified protocol and produces results with higher reproducibility and GC uniformity compared with prevailing RNA-seq methods.
+SP  - 201919800
+AN  - 31988135
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31988135
+DO  - 10.1073/pnas.1919800117
+U1  - 31988135[pmid]
+U4  - 1919800117[PII]
+J2  - Proc Natl Acad Sci U S A
+JF  - Proceedings of the National Academy of Sciences of the United States of America
+KW  - RNA-seq
+KW  - Tn5 transposase
+KW  - single cell
+CY  - United States
+ER  - 
