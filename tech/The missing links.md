@@ -31,7 +31,7 @@ then I get: RNA-mediated communication between helminths and their hosts: The mi
 
 分析细胞内是否有一个上限值n。转录本拷贝数在n以下，再多也不会分泌，一旦大于n，就会有大量持续分泌（假设细胞内存在稳态，不可能一个基因永远处于n水平高表达）。这就可以解释exRNA与tissue specific gene不配套，exRNA少，但是组织多，exRNA多，但组织少。
 
-one of the author is [Amy H. Buck](https://www.researchgate.net/profile/Amy_Buck3)
+one of the author is [Amy H. Buck](https://www.bucklab.org/)
 
 Reviews：
 
